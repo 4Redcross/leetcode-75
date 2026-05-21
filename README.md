@@ -14,15 +14,15 @@ Each file has an `if __name__ == "__main__":` block at the bottom, add your test
 
 ### Array / String
 
-- [ ] [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) — Easy
-- [ ] [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) — Easy
-- [ ] [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) — Easy
-- [ ] [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) — Easy
-- [ ] [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) — Easy
-- [ ] [443. String Compression](https://leetcode.com/problems/string-compression/) — Medium
-- [ ] [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) — Medium
-- [ ] [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) — Medium
-- [ ] [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) — Medium
+- [x] [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) — Easy
+- [x] [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) — Easy
+- [x] [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) — Easy
+- [x] [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) — Easy
+- [x] [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) — Easy
+- [x] [443. String Compression](https://leetcode.com/problems/string-compression/) — Medium
+- [x] [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) — Medium
+- [x] [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) — Medium
+- [x] [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) — Medium
 
 ### Two Pointers
 
